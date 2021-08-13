@@ -10,7 +10,7 @@ Hey, this is a some of my machine learning work. Code is written in Python, Matl
 
 - Classification & Clustering
     - SVM & K-means for image classification
-    - the Perceptron and logistic regression
+    - The Perceptron and logistic regression
 
 - Neural Networks
     - Feed-forward neural network for image classification
