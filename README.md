@@ -1,6 +1,6 @@
 # Machine Learning
 
-Hey, this is a some of my machine learning work. Code is written in Python, Matlab and R. Some projects are LTH coursework from my MSc in Engineering Physics degree with ML specialisation and some projects are just for fun :)
+Hey, this is a some of my machine learning projects. Code is written in Python, Matlab and R. Some projects are LTH coursework from my MSc in Engineering Physics degree with ML specialisation and some projects are just for fun :)
 
 - Regression
     - Penalized with cross-validation
