@@ -19,4 +19,4 @@ Hey, this is a some of my machine learning projects. Code is written in Python, 
 - Localise a robot in an enviroment without landmarks
 
 ## Reinforcement Learning
-    - Agent playing snake
+- Agent playing snake
